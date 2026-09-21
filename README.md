@@ -21,6 +21,13 @@ Software Developer at **Kokand University, Andijan Branch (KUAF)**, building int
 - **[UniControl](https://unicontrol.uz)** — digital tools for university workflows.
 - **[Vakans](https://vakans.uz)** — a platform connecting people with opportunities.
 
+## Engineering focus
+
+- Designing multi-platform products across web, iOS, Android and Windows.
+- Building offline-first retail systems with real-time synchronization and reliable data flows.
+- Turning complex academic and business operations into focused, maintainable software.
+- Leading product architecture from early prototype to production-ready ecosystem.
+
 ## Work at KUAF
 
 | Product | What I built |
