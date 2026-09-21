@@ -16,6 +16,7 @@ Software Developer at **Kokand University, Andijan Branch (KUAF)**, building int
 
 ## What I'm building
 
+- **[INJU](https://github.com/xurshidbek1806/inju.uz)** — a retail operating system connecting stores, suppliers, couriers and customers across [inju.uz](https://inju.uz).
 - **[CaravanTable](https://github.com/xurshidbek1806/caravantable)** — a focused desktop database manager for PostgreSQL, MySQL and SQLite.
 - **[UniControl](https://unicontrol.uz)** — digital tools for university workflows.
 - **[Vakans](https://vakans.uz)** — a platform connecting people with opportunities.
@@ -39,4 +40,4 @@ Software Developer at **Kokand University, Andijan Branch (KUAF)**, building int
 
 ## Toolbox
 
-`TypeScript` · `React` · `Vue` · `Svelte` · `Node.js` · `Python` · `Rust` · `PostgreSQL` · `Docker`
+`Go` · `PHP / Laravel` · `TypeScript` · `Vue` · `React` · `Swift / SwiftUI` · `Kotlin / Jetpack Compose` · `Flutter / Dart` · `PostgreSQL` · `Redis` · `Docker`
