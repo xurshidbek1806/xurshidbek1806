@@ -16,7 +16,7 @@ Software Developer at **Kokand University, Andijan Branch (KUAF)**, building int
 
 ## What I'm building
 
-- **[INJU](https://github.com/xurshidbek1806/inju.uz)** — a retail operating system connecting stores, suppliers, couriers and customers across [inju.uz](https://inju.uz).
+- **[INJU](https://github.com/uzbekona-dev/inju.uz)** — a retail operating system connecting stores, suppliers, couriers and customers across [inju.uz](https://inju.uz).
 - **[CaravanTable](https://github.com/xurshidbek1806/caravantable)** — a focused desktop database manager for PostgreSQL, MySQL and SQLite.
 - **[UniControl](https://unicontrol.uz)** — digital tools for university workflows.
 - **[Vakans](https://vakans.uz)** — a platform connecting people with opportunities.
