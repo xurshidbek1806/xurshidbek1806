@@ -12,6 +12,8 @@
 
 Co-founder & Lead Developer at **[uzbekona.dev](https://uzbekona.dev)**. I build practical products for businesses, education and developers.
 
+Software Developer at **Kokand University, Andijan Branch (KUAF)**.
+
 ## What I'm building
 
 - **[CaravanTable](https://github.com/xurshidbek1806/caravantable)** — a focused desktop database manager for PostgreSQL, MySQL and SQLite.
