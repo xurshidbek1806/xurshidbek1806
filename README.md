@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://uzbekona.dev">
-    <img src="assets/uzbekona-dev.png" width="620" alt="uzbekona.dev" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/uzbekona-dev-dark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/uzbekona-dev.png" />
+      <img src="assets/uzbekona-dev.png" width="620" alt="uzbekona.dev" />
+    </picture>
   </a>
 </p>
 
