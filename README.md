@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://uzbekona.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="2026-09-23 12.58.21.jpg" />
-      <source media="(prefers-color-scheme: light)" srcset="2026-09-23 12.58.21.jpg" />
+      <source media="(prefers-color-scheme: dark)" srcset="[2026-09-23 12.58.21.jpg](https://github.com/xurshidbek1806/xurshidbek1806/blob/84bd9b977276e9f5fd45663ab4d9dc991ab9b778/2026-09-23%2012.58.21.jpg)" />
+      <source media="(prefers-color-scheme: light)" srcset="[2026-09-23 12.58.21.jpg](https://github.com/xurshidbek1806/xurshidbek1806/blob/84bd9b977276e9f5fd45663ab4d9dc991ab9b778/2026-09-23%2012.58.21.jpg)" />
       <img src="assets/uzbekona-dev.png" width="620" alt="uzbekona.dev" />
     </picture>
   </a>
