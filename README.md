@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://uzbekona.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/uzbekona-dev-dark.png" />
-      <source media="(prefers-color-scheme: light)" srcset="assets/uzbekona-dev.png" />
+      <source media="(prefers-color-scheme: dark)" srcset="2026-09-23 12.58.21.jpg" />
+      <source media="(prefers-color-scheme: light)" srcset="2026-09-23 12.58.21.jpg" />
       <img src="assets/uzbekona-dev.png" width="620" alt="uzbekona.dev" />
     </picture>
   </a>
